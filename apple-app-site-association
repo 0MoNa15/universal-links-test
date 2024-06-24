@@ -1,0 +1,25 @@
+{
+  "applinks":{
+    "apps":[
+       
+    ],
+    "details":[
+      {
+        "appIDs":[
+          "DA56BMC5EN.co.com.Sura"
+        ],
+        "components":[
+          {
+            "/":"/login",
+            "exclude":true
+          },
+          {
+            "/":"/secret",
+            "exclude":true,
+            "comment":"Coincide con la URL con una ruta /secreto e indica al sistema que no la abra como un enlace universal."
+          }
+        ]
+      }
+    ]
+  }
+}
