@@ -5,8 +5,7 @@
       {
         "appID": "DA56BMC5EN.co.com.Sura",
         "paths": [
-          "NOT /login",
-          "NOT /secret"
+          "*"
         ]
       }
     ]
