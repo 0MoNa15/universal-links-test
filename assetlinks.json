@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "co.com.sura.seguros",
+        "sha256_cert_fingerprints":
+        ["E9:D8:60:C5:23:BB:52:D4:B4:74:77:C8:58:D8:7D:7D:C2:D4:5A:03:0C:97:74:1F:07:D4:C0:B7:24:21:DD:55"]
+    }
+}]
