@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "DA56BMC5EN.co.com.Sura",
-        "paths": [
-          "*"
-        ]
+        "paths": [ "/universal-links-test/*" ]
       }
     ]
   }
